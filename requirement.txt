@@ -2,3 +2,5 @@ pandas
 pyarrow
 numpy
 matplotlib
+datascience
+otter-grader
